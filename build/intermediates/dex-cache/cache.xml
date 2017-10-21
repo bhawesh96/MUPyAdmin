@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bhawesh/.android/build-cache/562bc37c300c4114b80f3415f1dc48a974103c7e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="/home/bhawesh/Desktop/Backups/MyUbuntu/AndroidStudioProjects/VSO-App/MUPyAdmin/app/build/intermediates/pre-dexed/debug/classes_5062ecb8d06bda70878aeedc749512fc2623bad7.jar" />
+    </item>
+
+</items>
